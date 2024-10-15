@@ -1,1 +1,0 @@
-# Intelligent-Supplychain-Management-System-main
