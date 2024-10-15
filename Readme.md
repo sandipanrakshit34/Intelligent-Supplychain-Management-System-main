@@ -1,6 +1,7 @@
 # Warehouse - Intelligent Supply Chain Management System
 
 Warehouse is an innovative supply chain management system developed during a hackathon. It leverages blockchain technology for decentralized payments and incorporates predictive analytics for intelligent inventory management.
+<center> <img src = "https://github.com/sandipanrakshit34/Intelligent-Supplychain-Management-System-main/blob/main/supply-chain-technology.png" width = 100%>
 
 ## Features
 
