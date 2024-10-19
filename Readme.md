@@ -44,6 +44,13 @@ Warehouse is an innovative supply chain management system developed during a hac
 - Pandas: Data manipulation and analysis
 - Jupyter Notebook: Interactive development environment
 
+## Author
+
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
+
+
 ### Testing
 - Link : https://intelligent-supplychain-management-ndy1.onrender.com/
 
